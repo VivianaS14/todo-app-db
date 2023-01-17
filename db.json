@@ -3,6 +3,14 @@
     {
       "content": "Hacer curso en platzi",
       "completed": false
+    },
+    {
+      "content": "Hacer sprint",
+      "completed": false
+    },
+    {
+      "content": "Llorar con la llorona",
+      "completed": false
     }
   ]
 }
