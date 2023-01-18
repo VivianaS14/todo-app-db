@@ -1,29 +1,5 @@
 {
   "todos": [
-    {
-      "id": 1,
-      "content": "Hola",
-      "completed": true
-    },
-    {
-      "id": 2,
-      "content": "Hola",
-      "completed": true
-    },
-    {
-      "id": 3,
-      "content": "Hola",
-      "completed": true
-    },
-    {
-      "id": 5,
-      "content": "Hola",
-      "completed": true
-    },
-    {
-      "id": 6,
-      "content": "Hola",
-      "completed": true
-    }
+    
   ]
 }
